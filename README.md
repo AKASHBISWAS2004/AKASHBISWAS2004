@@ -98,7 +98,7 @@ Passionate about building modern, responsive, and user-friendly web applications
   <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://codeforces.com/profile/Akashkumarbiswas" target="_blank">
   <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" height="48" />
 </a>
 
