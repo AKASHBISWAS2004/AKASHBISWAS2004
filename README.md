@@ -1,19 +1,4 @@
 ## Hi there 👋
-
-<!--
-**AKASHBISWAS2004/AKASHBISWAS2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="https://img.ge/i/blXfF49.png" width="100%" />
 </p>
@@ -119,7 +104,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 <p align="left">
   <img
     width="100%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AKASHBISWAS2004&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD"
+src="https://githubreadmestreakstats.herokuapp.com/user=AKASHBISWAS2004&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabe"
     alt="GitHub Streak"
   />
 </p>
