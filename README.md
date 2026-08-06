@@ -101,13 +101,11 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 # 📊 GitHub Statistics
 
-<p align="left">
-  <img
-    width="100%"
-src="https://githubreadmestreakstats.herokuapp.com/user=AKASHBISWAS2004&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabe"
-    alt="GitHub Streak"
-  />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=AKASHBISWAS2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AKASHBISWAS2004&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/username=AKASHBISWAS2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ## 📈 GitHub Activity Graph
 
